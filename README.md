@@ -1,6 +1,6 @@
 # npmtest-react-dates
 
-#### test coverage for  [react-dates (v10.1.1)](https://github.com/airbnb/react-dates#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-dates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-dates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-dates.svg)](https://travis-ci.org/npmtest/node-npmtest-react-dates)
+#### basic test coverage for  [react-dates (v10.1.1)](https://github.com/airbnb/react-dates#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-dates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-dates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-dates.svg)](https://travis-ci.org/npmtest/node-npmtest-react-dates)
 
 #### A responsive and accessible date range picker component built with React
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-dates/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-dates/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-dates/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-dates/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-dates/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-dates/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-dates/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-dates/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-dates/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-dates/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-dates/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-dates/build/coverage.html/index.html)
 
@@ -169,7 +169,8 @@
         "version:minor": "npm --no-git-tag-version version minor",
         "version:patch": "npm --no-git-tag-version version patch"
     },
-    "version": "10.1.1"
+    "version": "10.1.1",
+    "bin": {}
 }
 ```
 

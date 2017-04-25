@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [react-dates (v10.1.1)](https://github.com/airbnb/react-dates#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-dates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-dates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-dates.svg)](https://travis-ci.org/npmtest/node-npmtest-react-dates)",
+    "description": "#### basic test coverage for  [react-dates (v10.1.1)](https://github.com/airbnb/react-dates#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-dates.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-dates) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-dates.svg)](https://travis-ci.org/npmtest/node-npmtest-react-dates)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "react-dates": "*",
